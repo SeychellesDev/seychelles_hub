@@ -1,0 +1,12 @@
+[submodule "country-database-redux"]
+	path = country-database-redux
+	url = .\\country-database-redux\\
+[submodule "music-sheet"]
+	path = music-sheet
+	url = .\\music-sheet\\
+[submodule "prns"]
+	path = prns
+	url = .\\prns\\
+[submodule "us-highways-migration"]
+	path = us-highways-migration
+	url = .\\us-highways-migration\\
