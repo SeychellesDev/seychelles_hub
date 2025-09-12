@@ -1,12 +1,12 @@
 [submodule "country-database-redux"]
 	path = country-database-redux
-	url = .\\country-database-redux\\
+	url = https://github.com/Anon1777/country-database-redux.git
 [submodule "music-sheet"]
 	path = music-sheet
-	url = .\\music-sheet\\
+	url = https://github.com/Anon1777/music-sheet.git
 [submodule "prns"]
 	path = prns
-	url = .\\prns\\
+	url = https://github.com/Anon1777/prns.git
 [submodule "us-highways-migration"]
 	path = us-highways-migration
-	url = .\\us-highways-migration\\
+	url = https://github.com/Anon1777/us-highways-migration.git
