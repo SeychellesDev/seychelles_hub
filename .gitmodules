@@ -11,5 +11,5 @@
 	path = us-highways-migration
 	url = https://github.com/Anon1777/us-highways-migration.git
 [submodule "sneaky-little-google-maps-clone"]
-	path = us-highways-migration
+	path = sneaky-little-google-maps-clone
 	url = https://github.com/Anon1777/sneaky-little-google-maps-clone.git
