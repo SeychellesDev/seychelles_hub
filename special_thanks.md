@@ -6,20 +6,20 @@ I would love to express my gratitude to:
 - nikola, my day one
 - kevin, my
 - jack,
+- korey,
 - grey,
 - jason,
 - noah,
 - alec,
 - yesenia,
-- sofia s,
-- sofia l,
+- sofia,
 - bridget,
 - dan,
 - luch,
 - riley,
 - cj,
 - summer,
-- jacob,
+- jacob, my clone
 - tori,
 - kyle,
 - leo,
