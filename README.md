@@ -20,7 +20,6 @@ This is a database for countries and roads and music and also kinda my portfolio
 - - see ["us-highways-migration/todo.md"]
 - - make site look good
 - - verify that roads works
-- - learn osmium
 - - start I-95
 - - finish US-9
 - - start I-40
